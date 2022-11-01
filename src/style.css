@@ -1,0 +1,18 @@
+.usestate{
+height:100px;
+background-color: pink;
+}
+.useeffect{
+
+    height:100px;
+    background-color:aqua; 
+}
+.usememo{
+
+    height:150px;
+    background-color:darkgrey;
+}
+.usereducer{
+    height:150px;
+    background-color:burlywood;
+}
